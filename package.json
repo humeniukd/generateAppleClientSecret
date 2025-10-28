@@ -1,0 +1,15 @@
+{
+  "name": "generateAppleClientSecret",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^4.111.0"
+  },
+  "dependencies": {
+    "jose": "^6.2.3"
+  }
+}
